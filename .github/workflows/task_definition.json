@@ -28,7 +28,7 @@
       ],
       "secrets": [
         {
-          "name": "API_KEYS",
+          "name": "api_keys",
           "valueFrom": "arn:aws:secretsmanager:us-east-1:443852008496:secret:api_keys-TuZOmt"
         }
         
